@@ -23,6 +23,14 @@
       "text": "go to home",
       "day": "2021/12/25",
       "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "go to taipei",
+      "day": "2021/12/26",
+      "reminder": true
     }
   ]
 }
+
+  
